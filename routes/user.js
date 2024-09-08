@@ -75,8 +75,6 @@ const signinBody = zod.object({
 });
 
 router.post("/signin", async (req, res) => {
-    console.log('Signin route hit');
-    console.log('Signin request received:', req.body);
     const { success } = signinBody.safeParse(req.body);
     if (!success) {
       console.log('Validation failed:', signinBody.safeParse(req.body).error);
