@@ -8,7 +8,7 @@ Welcome to the PayTM Clone project! This project aims to replicate the basic Bac
 - Send money to other users' accounts
 
 ## Technology Stack
-Node.js, Express.js
+Node.js, Express.js ,MongoDB
 
 ## Database Transactions
 
