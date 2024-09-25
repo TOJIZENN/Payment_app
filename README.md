@@ -1,4 +1,4 @@
-Welcome to the PayTM Clone project! This project aims to replicate the basic Backend functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
+Welcome to the PayTM Backend project! This project aims to replicate the basic Backend functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
 
 ## Features
 
